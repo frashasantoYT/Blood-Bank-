@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navHome"
+            android:icon="@drawable/ic_home"
+            android:iconTint="@color/slider_menu_color"
+            android:title="Home">
+
+        </item>
+
+        <item android:id="@+id/navDonors"
+            android:title="Find Donors"
+            android:icon="@drawable/baseline_bloodtype_24">
+
+        </item>
+
+
+        <item android:id="@+id/navProfile"
+            android:title="Profile"
+            android:icon="@drawable/ic_profile">
+
+
+        </item>
+        <item android:id="@+id/navChangePass"
+              android:title="Change password"
+              android:icon="@drawable/baseline_lock_24">
+        </item>
+        <item android:id="@+id/navLogout"
+            android:title="Logout"
+            android:icon="@drawable/ic_logout">
+
+        </item>
+    </group>
+
+</menu>
