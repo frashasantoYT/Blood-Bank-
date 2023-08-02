@@ -21,11 +21,10 @@ Blood Bank is an android application that both donors and users seeking to find 
 To install the application you can head up to https://github.com/frashasantoYT/Blood-Bank-/blob/master/app/release/app-release.apk on you favorite browser. Download and install the application on your phone
 
 ## App UI 
-[url=https://postimg.cc/nC25g1Pd][img]https://i.postimg.cc/nC25g1Pd/dashboard.jpg[/img][/url]
+![Dashboard](https://i.postimg.cc/nC25g1Pd/dashboard.jpg)
+![Profile](https://i.postimg.cc/DSYNywFL/profile.jpg)
+![Register](https://i.postimg.cc/XrvhbCMn/register.jpg)
 
-[url=https://postimg.cc/DSYNywFL][img]https://i.postimg.cc/DSYNywFL/profile.jpg[/img][/url]
-
-[url=https://postimg.cc/XrvhbCMn][img]https://i.postimg.cc/XrvhbCMn/register.jpg[/img][/url]
 
 
 
